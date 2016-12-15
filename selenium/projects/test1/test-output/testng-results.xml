@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13188" started-at="2016-12-02T07:55:54Z" finished-at="2016-12-02T07:56:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13188" started-at="2016-12-02T07:55:54Z" finished-at="2016-12-02T07:56:07Z">
+      <class name="api.DeleteAPI">
+        <test-method status="PASS" signature="startTest()[pri:0, instance:api.DeleteAPI@224edc67]" name="startTest" is-config="true" duration-ms="13176" started-at="2016-12-02T13:25:54Z" finished-at="2016-12-02T13:26:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="test()[pri:0, instance:api.DeleteAPI@224edc67]" name="test" duration-ms="5" started-at="2016-12-02T13:26:07Z" finished-at="2016-12-02T13:26:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- api.DeleteAPI -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
